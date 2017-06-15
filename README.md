@@ -9,7 +9,7 @@
 `cargo workspace COMMANDS`
 
 
-## Examples:o
+## Examples:
 
 ```
 // Executes check in all crates inside the workspace.

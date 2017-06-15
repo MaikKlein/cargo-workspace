@@ -1,7 +1,12 @@
 [package]
 name = "cargo-workspace"
 version = "0.1.0"
-authors = ["Maik Klein <maikklein@googlemail.com>"]
+authors = ["maik klein <maikklein@googlemail.com>"]
+description = "Forwards commands to all crates inside a workspace"
+license = "MIT"
+repository = "https://github.com/MaikKlein/cargo-workspace"
+readme = "README.md"
+keywords = ["workspace", "cargo"]
 
 [dependencies]
 serde_derive = "1.0.8"
